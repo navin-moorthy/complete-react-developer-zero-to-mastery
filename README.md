@@ -1,2 +1,2 @@
-# complete-react-developer-zero-to-mastery
-Complete React Developer Zero To Mastery
+# Complete React Developer Zero To Mastery
+
