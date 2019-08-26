@@ -11,9 +11,6 @@
 <p align="center">
   Learning Resources
 </p>
----
-
-
 
 ## Thanks
 
