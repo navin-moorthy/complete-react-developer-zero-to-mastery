@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h2>Complete React Developer Zero To Mastery</h2>
+  <b>Complete React Developer Zero To Mastery</b>
 </p>
 
 <p align="center">
